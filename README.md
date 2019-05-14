@@ -1,6 +1,6 @@
 # Active Learning for Decision-Making from Imbalanced Observational data
 
-This repository contains the code (and associated documentation and instructions) used in a paper 'Active Learning for Decision-Making from Imbalanced Observational data' (ICML 2019). Preprint: https://arxiv.org/abs/1904.05268 
+This repository contains the code (and associated documentation and instructions) used in a paper 'Active Learning for Decision-Making from Imbalanced Observational data' by Iiris Sundin, Peter Schulam, Eero Siivola, Aki Vehtari, Suchi Saria and Samuel Kaski (ICML 2019). Preprint: https://arxiv.org/abs/1904.05268 
 
 All code under licence BSD-3-Clause unless otherwise stated.
 
